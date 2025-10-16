@@ -1,0 +1,17 @@
+{
+  "name": "Know Now",
+  "short_name": "KnowNow",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#ffffff",
+  "description": "Trending news and quizzes, right now.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
